@@ -1,2 +1,2 @@
 #!/bin/bash
-echo=12345 
+echo 1-who_am_i
