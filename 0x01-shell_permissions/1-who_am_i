@@ -1,2 +1,2 @@
 #!/bin/bash
-1-who_am_i contains 1, it should be 2
+echo "User name ID (UID) : $_uid"
