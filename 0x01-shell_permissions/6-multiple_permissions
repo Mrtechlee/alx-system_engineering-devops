@@ -1,2 +1,2 @@
 #!/bin/bash
--rwxrw-r-- 1 hello hello -r--r----- 1 hello hello
+-rwxr-xr-- 1 hello hello 
