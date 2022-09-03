@@ -1,2 +1,2 @@
 #!/bin/bash
-ec betty
+echo betty
