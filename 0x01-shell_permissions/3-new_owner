@@ -1,2 +1,2 @@
 #!/bin/bash
-touch betty
+sudo ./3-betty
