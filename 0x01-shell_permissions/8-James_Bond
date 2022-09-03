@@ -1,3 +1,2 @@
 #!/bin/bash
- chmod -rwxr-x-wx hello 
-chmod u=rwx_g=rx_o=r hello
+ chmod u+rwx_g+rx_o+wx hello
