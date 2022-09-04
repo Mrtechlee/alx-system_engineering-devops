@@ -1,2 +1,2 @@
 #!/bin/bash
-cp  /.html/0x00-shell_basics /tmp/ 
+cp  ./current_working_directory/.html ./tmp
