@@ -1,3 +1,2 @@
 #!/bin/bash
-cp /tmp/.html
 cp .html/0x00-shell_basics /tmp
