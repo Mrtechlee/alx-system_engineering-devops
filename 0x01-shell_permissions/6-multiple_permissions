@@ -1,2 +1,2 @@
 #!/bin/bash
-001 001 100 1 hello hello 
+chmod ug=x o=r hello 
