@@ -1,2 +1,2 @@
 #!/bin/bash
-chow vincent:staff __hello__
+chow vincent:staff _hello
