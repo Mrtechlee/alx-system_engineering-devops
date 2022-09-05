@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "total 100 drwxr-xr-x 2 root root 4096 Sep  5 13:05 . drwxr-xr-x 8 root root  160 Sep  5 05:41 ..  -rwxr-xr-x 1 root root   41 Sep  5 13:05 0-hello_world -rwxr--r-- 1 root root   12 Sep  5 11:07 10-no_more_js -rw-r--r-- 1 root root    0 Sep  5 13:00 ls_cwd_content  -rw-r--r-- 1 root root   94 Sep  5 06:26 README.md"> ls_cwd_content
+ls -la > ls_cwd_content
