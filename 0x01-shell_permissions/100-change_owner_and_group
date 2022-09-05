@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R vincent:staff /PATH/TO/FILE
+chown vincent:staff hello
