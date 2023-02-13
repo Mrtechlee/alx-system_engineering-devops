@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-/*Write a Bash script that displays Best School 10 times, You must use the for loop (while and until are forbidden)
+#Write a Bash script that displays Best School 10 times, You must use the for loop (while and until are forbidden)
