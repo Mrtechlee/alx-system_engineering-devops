@@ -1,1 +1,2 @@
 #!/usr/bin/env bash
+/* generate RSA public key so that you can access them via SSH.
