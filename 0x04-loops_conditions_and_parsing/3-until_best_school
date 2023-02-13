@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-/* Write a Bash script that displays Best School 10 time, You must use the until loop
+#Write a Bash script that displays Best School 10 time, You must use the until loop
